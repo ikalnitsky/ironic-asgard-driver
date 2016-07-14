@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = asgard_ironic
+omit = asgard_ironic/openstack/*
+
+[report]
+ignore_errors = True
